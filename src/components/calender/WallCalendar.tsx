@@ -46,7 +46,7 @@ export const WallCalendar = () => {
       {/* Header with Theme Toggle */}
       <div className="w-full max-w-5xl flex justify-between items-center mb-6 z-10 px-2 lg:px-0">
         <h1 className="text-2xl font-serif text-slate-800 dark:text-slate-100 uppercase tracking-widest font-bold">
-          Calender
+          Calendar
         </h1>
         <ThemeToggle />
       </div>
