@@ -2,6 +2,8 @@
 
 A highly aesthetic, interactive wall calendar designed to mimic the tactile feel of physical prints. Built heavily with **React**, **TypeScript**, and bleeding edge **Tailwind CSS v4**, this application marries physical geometry styling with digital convenience.
 
+**Live Demo:** [https://calendar-tau-ruby.vercel.app/](https://calendar-tau-ruby.vercel.app/)
+
 ## ✨ Core Features
 * **Physical Wall Calendar Aesthetics:** Clean geometry layering leveraging custom SVG vectors and responsive CSS cuts mimicking high-end neo-brutal physical calendar prints.
 * **Authentic 3D Flip Animations:** Custom CSS keyframe mechanics (`rotateX(90deg)`) pivoting on the top origin axis to flawlessly mirror physically flipping a page over a top-mounted binding spiral.
